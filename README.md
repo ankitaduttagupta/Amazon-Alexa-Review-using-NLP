@@ -10,4 +10,4 @@ About the dataset:
   test measures used: precision and accuracy scores.
 - Improved precision of model by **SMOTE technique for class imbalance treatment.**
 
--  Performed Sentiment analysis for all reviews ( polarity and subjectivity)
+-  Performed Sentiment analysis for all reviews ( polarity and subjectivity).
